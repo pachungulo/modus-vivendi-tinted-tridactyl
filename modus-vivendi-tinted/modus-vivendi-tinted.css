@@ -28,6 +28,8 @@
     --tridactyl-cmplt-option-height: 1.9em;
 
     --tridactyl-border-radius: 4px;
+
+    --tridactyl-url-fg: #79a8ff /*New url color!*/
 }
 
 :root.TridactylOwnNamespace {
